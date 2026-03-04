@@ -11,3 +11,4 @@ payload:
 - DOMAIN-SUFFIX,googleusercontent.com
 - DOMAIN-SUFFIX,gravatar.com #头像
 - DOMAIN-SUFFIX,ipify.org
+- DOMAIN-SUFFIX,brave.com
